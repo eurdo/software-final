@@ -50,7 +50,10 @@
 
 •報表與查詢功能  
  產生物流相關統計報表，供管理決策參考。  
-1.4 非功能需求  
+ <img width="1408" height="768" alt="3" src="https://github.com/user-attachments/assets/1f0c89e9-2a39-4cee-807d-4a5fee06d922" />  
+
+
+### 1.4 非功能需求  
 為確保系統穩定與品質，需符合以下非功能性需求：  
 
 •系統效能  
@@ -112,6 +115,10 @@
  └─ 訂單資料表  
  └─ 庫存資料表  
  └─ 物流狀態資料表  
+  <img width="848" height="1264" alt="2" src="https://github.com/user-attachments/assets/a844601f-48ce-454a-abe9-9ea247f33464" />  
+
+
+
  
 ### 2.2 模組規劃  
 
